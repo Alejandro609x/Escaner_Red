@@ -98,27 +98,6 @@ El archivo `resultados.txt` se creará en el mismo directorio.
 
 ---
 
-## 🧾 Ejemplo real:
-
-Comando:
-
-```bash
-python3 escaner_red.py https://innovacion.finanzas.cdmx.gob.mx/sinpapel/ -a
-```
-
-Resultado:
-
-```
-🔗 URL: https://innovacion.finanzas.cdmx.gob.mx/sinpapel/
-🌐 Dominio: innovacion.finanzas.cdmx.gob.mx
-📡 IPs encontradas: 148.230.214.40, 10.1.181.21, 189.208.102.104, 189.240.236.51
- - 🧠 IP: 148.230.214.40 → Clase: Clase B, Tipo: Pública, Origen: Pública, Conectividad: Ping, HTTPS
- - 🧠 IP: 10.1.181.21 → Clase: Clase A, Tipo: Privada, Origen: Interna, Conectividad: Ping
- - 🧠 IP: 189.208.102.104 → Clase: Clase B, Tipo: Pública, Origen: Pública, Conectividad: Ninguna
-```
-
----
-
 ## ❓ Preguntas frecuentes
 
 ### 🔸 ¿Por qué me da una IP privada?
