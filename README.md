@@ -41,3 +41,55 @@ python escaner_red.py https://ejemplo.com -a
 python escaner_red.py https://ejemplo.com -a -Og resultado.txt
 ```
 ---
+
+### ⚙️ Descarga
+
+## 🟢 Opción 1: Descargar el archivo directamente (para principiantes)
+
+1. Abre este enlace en tu navegador:
+   👉 [https://github.com/Alejandro609x/Escaner\_Red](https://github.com/Alejandro609x/Escaner_Red)
+
+2. Haz clic en el archivo `escaner_red.py`.
+
+3. Luego haz clic en el botón **“Raw”** (arriba a la derecha del código).
+
+4. Presiona clic derecho y elige **“Guardar como…”**.
+
+5. Guarda el archivo con el nombre `escaner_red.py` en tu computadora.
+
+---
+
+## 🟡 Opción 2: Descargar el repositorio completo como ZIP
+
+1. Entra a:
+   👉 [https://github.com/Alejandro609x/Escaner\_Red](https://github.com/Alejandro609x/Escaner_Red)
+
+2. Haz clic en el botón verde **“Code”** y selecciona **“Download ZIP”**.
+
+3. Extrae el archivo `.zip` en tu computadora.
+
+4. El script estará en la carpeta descomprimida con el nombre `escaner_red.py`.
+
+---
+
+## 🔵 Opción 3: Descargar con `wget` desde la terminal (Linux/macOS)
+
+Puedes descargarlo desde la línea de comandos así:
+
+```bash
+wget https://raw.githubusercontent.com/Alejandro609x/Escaner_Red/main/escaner_red.py
+```
+
+Esto guardará el archivo en tu carpeta actual como `escaner_red.py`.
+
+---
+
+## 🔴 Opción 4: Clonar el repositorio
+
+```bash
+git clone https://github.com/Alejandro609x/Escaner_Red.git
+cd Escaner_Red
+python3 escaner_red.py
+```
+
+---
