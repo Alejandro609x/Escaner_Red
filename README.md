@@ -40,11 +40,4 @@ python escaner_red.py https://ejemplo.com -a
 # Guardar resultado en archivo
 python escaner_red.py https://ejemplo.com -a -Og resultado.txt
 ```
-
----
-
-### 📜 Licencia:
-
-MIT License — libre para usar, modificar y distribuir.
-
 ---
